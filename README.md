@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah2020&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah2020" /> </p>
 
-- 🌱 I’m currently learning **Contiki-Cooja, Natural Language Processing (NLP) and TensorFlow Frameworks**
+- 🌱 I’m currently learning **MLOps, IoT Localization and TensorFlow Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://abdullahiisaahmed.com/](https://abdullahiisaahmed.com/)
 
