@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Multi-Agent Reinforcement Learning (MARL) **Resource Allocation for Multi LoRa Gateway**
 
-- 🌱 I’m currently learning **MARL framework such as EPyMARL, PettingZoo.**
+- 🌱 I’m currently learning **MARL framework such as EPyMARL, PettingZoo, Xuance.**
 
 - 👨‍💻 All of my projects are available at [https://abdullahiisaahmed.com/](https://abdullahiisaahmed.com/)
 
